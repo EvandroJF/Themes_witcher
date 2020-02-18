@@ -39,9 +39,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### `library`
 
-npm i styled-components
-npm add react-switch
-npm add polished
+npm i styled-components.
+
+npm add react-switch.
+
+npm add polished.
 
 ## Learn More
 
